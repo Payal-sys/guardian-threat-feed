@@ -3,14 +3,14 @@ import json
 
 url = "https://mb-api.abuse.ch/api/v1/"
 
-# Using the official 'get_recent' query documented in the API
+# Using the exact tag you found: "android"
 data = {
-    "query": "get_recent",
-    "selector": "100"
+    "query": "get_taginfo",
+    "tag": "android",
+    "limit": 1000
 }
 
 try:
-    # POST request is explicitly required by the API
     response = requests.post(url, data=data)
     result = response.json()
     
@@ -19,14 +19,13 @@ try:
     
     if status == "ok":
         for entry in result.get("data", []):
-            # API returns signature, if null we label it
             sig = entry.get("signature")
-            name = sig if sig else "Unknown.Malware"
+            name = sig if sig else "Android.Malware"
             threats.append({
                 "hash": entry.get("sha256_hash"),
                 "name": name
             })
-        print(f"Successfully grabbed {len(threats)} recent threats.")
+        print(f"Successfully grabbed {len(threats)} Android threats!")
     else:
         print(f"API Error Status: {status}")
             
