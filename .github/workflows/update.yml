@@ -1,7 +1,8 @@
 name: Update Threat Feed
+
 on:
   schedule:
-    - cron: '0 6 * * *'  # daily at 06:00 UTC
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,13 +11,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
-      - run: python update_threats.py
-      - name: Commit & push
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest hashes
+        run: python update_threats.py
+
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
