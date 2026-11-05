@@ -3,13 +3,14 @@ import json
 
 url = "https://mb-api.abuse.ch/api/v1/"
 
-# Use get_recent with time selector to guarantee recent malware samples
+# Using the official 'get_recent' query documented in the API
 data = {
     "query": "get_recent",
-    "selector": "time"
+    "selector": "100"
 }
 
 try:
+    # POST request is explicitly required by the API
     response = requests.post(url, data=data)
     result = response.json()
     
@@ -18,7 +19,7 @@ try:
     
     if status == "ok":
         for entry in result.get("data", []):
-            # Fallback to Generic if signature name is missing
+            # API returns signature, if null we label it
             sig = entry.get("signature")
             name = sig if sig else "Unknown.Malware"
             threats.append({
