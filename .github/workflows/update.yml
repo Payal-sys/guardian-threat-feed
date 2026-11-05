@@ -23,6 +23,8 @@ jobs:
         run: pip install requests
 
       - name: Fetch latest hashes
+        env:
+          MB_AUTH_KEY: ${{ secrets.MB_AUTH_KEY }}
         run: python fetch_hashes.py
 
       - name: Commit and push changes
