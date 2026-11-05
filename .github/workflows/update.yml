@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Fetch latest hashes
-        run: python update_threats.py
+        run: python fetch_hashes.py
 
       - name: Commit and push changes
         run: |
