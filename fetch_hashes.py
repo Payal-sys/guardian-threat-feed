@@ -1,36 +1,31 @@
-import requests
 import json
+import requests
 
-url = "https://mb-api.abuse.ch/api/v1/"
+API = "https://mb-api.abuse.ch/api/v1/"
 
-# Using the exact tag you found: "android"
-data = {
-    "query": "get_taginfo",
-    "tag": "android",
-    "limit": 1000
-}
-
-try:
-    response = requests.post(url, data=data)
-    result = response.json()
+def get_android_hashes(limit=200):
+    resp = requests.post(API, data={
+        "query": "get_taginfo",
+        "tag": "apk",
+        "limit": limit
+    }, timeout=30)
     
+    resp.raise_for_status()
+    data = resp.json()
+    
+    if data.get("query_status") != "ok":
+        raise RuntimeError(f"API Error: {data.get('query_status')}")
+
     threats = []
-    status = result.get("query_status")
-    
-    if status == "ok":
-        for entry in result.get("data", []):
-            sig = entry.get("signature")
-            name = sig if sig else "Android.Malware"
-            threats.append({
-                "hash": entry.get("sha256_hash"),
-                "name": name
-            })
-        print(f"Successfully grabbed {len(threats)} Android threats!")
-    else:
-        print(f"API Error Status: {status}")
-            
+    for item in data.get("data", [])[:limit]:
+        threats.append({
+            "hash": item["sha256_hash"],
+            "name": item.get("signature", "Android.Malware.Generic")
+        })
+    return threats
+
+if __name__ == "__main__":
+    threats = get_android_hashes(200)
     with open("threats.json", "w") as f:
         json.dump(threats, f, indent=2)
-        
-except Exception as e:
-    print(f"Critical Script Error: {e}")
+    print(f"Saved {len(threats)} Android threat hashes to threats.json")
