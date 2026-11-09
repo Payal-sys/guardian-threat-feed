@@ -5,51 +5,57 @@ import os
 API_URL = "https://mb-api.abuse.ch/api/v1/"
 AUTH_KEY = os.environ.get("MB_AUTH_KEY")
 
-def get_android_hashes():
-    headers = {"Auth-Key": AUTH_KEY} if AUTH_KEY else {}
+def debug_android_hashes():
+    # Passing both header formats just to be absolutely certain
+    headers = {
+        "Auth-Key": AUTH_KEY,
+        "API-KEY": AUTH_KEY
+    } if AUTH_KEY else {}
+    
     threats_dict = {}
     
-    # We try all 3 known Android classifications so the file is never empty
     queries = [
-        {"query": "get_taginfo", "tag": "Apk", "limit": 200},
+        {"query": "get_taginfo", "tag": "apk", "limit": 200},
         {"query": "get_taginfo", "tag": "android", "limit": 200},
         {"query": "get_file_type", "file_type": "apk", "limit": 200}
     ]
     
-    print("Connecting to MalwareBazaar API...")
-    
     for payload in queries:
+        print(f"\n--- Testing Query: {payload['query']} | Param: {list(payload.values())[1]} ---")
         try:
             resp = requests.post(API_URL, headers=headers, data=payload, timeout=30)
+            print(f"HTTP Status: {resp.status_code}")
+            
             if resp.status_code == 200:
                 result = resp.json()
+                status = result.get("query_status")
+                print(f"API Query Status: {status}")
                 
-                if result.get("query_status") == "ok":
-                    for item in result.get("data", []):
+                if status == "ok":
+                    data_list = result.get("data", [])
+                    print(f"Found {len(data_list)} hashes!")
+                    for item in data_list:
                         hash_val = item.get("sha256_hash")
                         sig = item.get("signature")
-                        # Format for Guardian's Room Database
-                        name = sig if sig else "Android.Malware.Generic"
-                        
-                        # Using a dictionary automatically prevents duplicate hashes
-                        threats_dict[hash_val] = name 
-                        
+                        threats_dict[hash_val] = sig if sig else "Android.Malware.Generic"
+                else:
+                    # This will print the EXACT error message the server is sending
+                    print(f"Server Error Data: {result}")
+            else:
+                print(f"Server HTTP Error: {resp.text}")
+                
         except Exception as e:
-            print(f"Skipping a payload due to error: {e}")
+            print(f"Request failed: {e}")
             
-    # Convert the dictionary back into the JSON array format
     return [{"hash": k, "name": v} for k, v in threats_dict.items()]
 
 if __name__ == "__main__":
-    try:
-        threats = get_android_hashes()
-        
-        if len(threats) > 0:
-            with open("threats.json", "w") as f:
-                json.dump(threats, f, indent=2)
-            print(f"Success! Saved {len(threats)} unique Android threat hashes.")
-        else:
-            print("Still receiving no data from API.")
-            
-    except Exception as e:
-        print(f"Critical Script Error: {e}")
+    print("Starting MalwareBazaar API diagnostics...\n")
+    threats = debug_android_hashes()
+    
+    if len(threats) > 0:
+        with open("threats.json", "w") as f:
+            json.dump(threats, f, indent=2)
+        print(f"\nSuccess! Saved {len(threats)} unique Android threat hashes.")
+    else:
+        print("\nStill receiving no data from API. Please copy and paste this entire terminal log!")
