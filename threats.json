@@ -1,1 +1,1522 @@
-[]
+[
+  {
+    "hash": "2de9ebde28fdf9b9e2fbe14f19e9a719e452ab9f124e5556ee56e5879caf44bd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b95cb9daffc04e585afb1c7cac94b0a4e2540564b1fc195295dc41af555c78f7",
+    "name": "Mirai"
+  },
+  {
+    "hash": "5c0771f5592ae3414d6468ad5f34e2f27291c9af8d6d72b770ee6e767bb5834e",
+    "name": "Mirai"
+  },
+  {
+    "hash": "de578e29c96f49bdc72756fce941b5c6c6814748a0cc9395e47a7d2aec354380",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5bb41baf3b0f8491a80e913c3c328974f9de5840580e3f59dbf3521460e6453d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e9026fc71e8297c1ed5d339e6e74c1fe1b3e661313a8792f961eedff5e061159",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a2e2bd358795a5c0f0e8d258ba063a937024a718c96b972d8509d9d0b6c65996",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4da4c4881e3a7eb3cb3571e1caf0f2c27a0f4e67cc7ccd638fa5381aa5d14d89",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f01a48c8331ab1b0f6be762e172d5469887190e526b87a90defff0c4d14f0365",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c48071a9e15df2cad4c027a92370aab2f0187eec5438977c47463d505f271740",
+    "name": "Mirai"
+  },
+  {
+    "hash": "c0b49fa5eaad0225484efd4aa7df0598b79e6c726631654e95ebe6b60db27408",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ef32609097b1739fb3353c5d65661ccae670e30be1d9b0ace889284276df5f80",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4e472f1a5d14cf690e18943c0fede03185b0faf82429b7ac1ee81e5b7639139c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dc7295a605c3486350682d7bbb4dc391d5c30c047f02748bb2d914ecd8879749",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a71d97faedf467e161e83f05ec1a8285daa62cbcd192ea624d2a8a57a8e50e01",
+    "name": "Silentnet"
+  },
+  {
+    "hash": "02e44eca4eeefa7d0c8f3d0abebdabddb451160f7c19f5bafab31b2f035b3ed2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b17d030bee752859158181d586644569e40dfe13b0fd470f124829b5fbeddc26",
+    "name": "NGate"
+  },
+  {
+    "hash": "a9859c49d20baf131d1e9253acb0118fac412acaa97938d87c7c8daa7554cd54",
+    "name": "CECbot"
+  },
+  {
+    "hash": "089688db8500d0776501de520205209535bf0e5104d0a728f484dde75c1ed9c2",
+    "name": "Mirai"
+  },
+  {
+    "hash": "e9c2ae116f11ed9ae4c1a86aa1ceb37fce9814630ffa696af692f43bb9ac384f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f6bf91fd210cf04592949131b3ed1a4a10986c9bdeebb4869f511b42c54c5328",
+    "name": "RatHat"
+  },
+  {
+    "hash": "ceb84941c5b9298b1166fc4f023f0ff3050ccac3e8355cd65fcc96c644297d6e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ae5483625f278378e9d8930562c3be0dc41c9132fbcaad3894c78b76eb986141",
+    "name": "KATARU"
+  },
+  {
+    "hash": "0a592e8cbc7f6ece7de140a8f49c359fbf152f3d7bab474eb0f52f521f3e56c3",
+    "name": "KATARU"
+  },
+  {
+    "hash": "cf178e04cf18b2ba30adf81d8bcddc80aedf2c40d9a503ee0c70594625f40445",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ab4bccba4bb4b44c706520251e9705e1037f5ab5d0d535b621507d5aeb6b04b3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6e46dda4acf4e5868237ddca95958cb6154a7d7482eb73e4d4d73443d227baee",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "576bda1c28c6c5c1dab0f73666966dff2a91a6853c5503347d96362496ea14e2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0729394b7a5b5b2e45de232e3adde6d9a8698ba1fe4fc944966fbc8c082c675d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "05e70b283808aca9c32cd393c0979f53a3ad2a980b81a467e3cac0e9288c3334",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0ef38494de4a2622f12ae6899c85c25a81db6c5b1f0759d8f852050ac6fffaa9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "17eb2992e0a5285df52392da221b2e740d478068480e861ad18994e64491ef38",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "58f639084f153ff5241b8ee7de3aba11dc5db2cebbb755f8c17c1091b030f594",
+    "name": "SilentNet"
+  },
+  {
+    "hash": "d845e7778c3a124df98f7c4533d8acbbe6e08c1b070c0925612dec4b7b61028c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "aeb59c9bee55cd1bd0fa140bf85bb423d48c964b782a32f35a83dd7b521e8c7f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "90b4c61a1263a1ad2f1d2c5cbc1b6e097893cf70e5c70d1076d8eaff056f2567",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "36ee3a3ac671cfc9fe5f3346e3c11f63050f2da511dcc3eb5ad2167759af080d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "69a1d8dc61df06b5d64ddd82440e5cb921bfa5c07840d99650a980407e439018",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3928275bef5bc36c164800c0a62eadaca98c1b913ba1eb0f19443332e04994e6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "eaac670522ce69d245625660c8a4cad7c23470365ed70ed4486523ac6501ee09",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "30053cbdf5ece0e0f712c26fc1954966861fb1dfcc278f640c7e6fe558f0b76f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e1ea5c6d70545b35c6dd20826c26a4bae0e6868fc36fb81cad1af491e94b7ac1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7b5bd315bdc932d437020233ad39dca18a2a5fe70b2fc6035eb738df2a1266f4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7104daedd0cf8ae8f2a0e15b40c3d8a386e01e114e7468a5130d6bbf91384822",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7ab9380c37f7943e631d401a196ac4ab84b64e98dd1a3191c6546a7ab49a0d42",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "aab5a508b26620ca6c9871c33242a472df782f947c2968bd6588b5de7a32ae40",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "248c6582ab37f3e273cbc2f896d24c02a342eadc9e4f3d7cf50920dcba6c6cd2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1ae3e8213b07e1d53eca54a1901e2dc6dc9e27a3ca10377a63e6adec2fe15426",
+    "name": "SilentNet"
+  },
+  {
+    "hash": "b6944ca1a9740dffa2bf0b176e94648582a25ab86762c8244a4840ca1c81dbad",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2452defb90ea5082aeeb4fbf24e91f4cc162e3baf24e17d21fed8f2683b03cfc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "30f4e1bc0cd96d4210765b18533eb0c5343f155a36b1a567132538242487d09c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6e136391f87beac4ae152e4f3f24ad61fb7b06df0fdb39d0005660ea1c5ea55e",
+    "name": "Mirai"
+  },
+  {
+    "hash": "425469176c41994bc33ce0582948798875f5c9682b7d0967c925a10f813e1a3d",
+    "name": "IRATA"
+  },
+  {
+    "hash": "e81ef9033dfd624f185ecf27c77efb7a29c21d7b250eb64b1bff77baddc3c671",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e75804a21f214a7d8f4d46e22e16adf588bf44ff3583a1ca9197b57a0d5fa705",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d3b4a9bb4a49112466d777f9b8d9862c753f18bc716d9e32d021e54dad8851ca",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0d9e970507baf8216c3a338d09d24e47d78a500b3b20d08836a8dc0e0282aeac",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a0f4f36aba15058cd3b01bb68c90574d1fb44c5408cd909727f9f60ebdd6fa73",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7add757c3f09d52863fcc07948491ad967a7f0a9a51bbabb8567c26b8bfecfda",
+    "name": "SilentNet"
+  },
+  {
+    "hash": "aca28ad2e1881fff41981c76ea600a0351e8d206f707cada8d6f01c843770d5d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2f0a5a857fa530eb028ab35b31f727fe7e601d05d12853e4435f26c330402c47",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3391797656a95dc8e1dd20aba2456023d90b35813786ae3612925b15486138d9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ca394e1603c83b57b41539cc893dc308e3d99e7542c35db4c2c4ece6f068161b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b44d0b07913b5512f12af4044af0f043be9f824a67d7457e00a898d9f178a369",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "95370faad7b5de45cc909ab0aa6bba0f5fd88ac8f2db0ec474b5a61b382db84e",
+    "name": "SilentNet"
+  },
+  {
+    "hash": "b644a3cbe287b06c1c4cae93c6ecc55806dbbd1564d5b17f9ecc1ec2c4c9ab7b",
+    "name": "SilentNet"
+  },
+  {
+    "hash": "bf1083a8cfec823693c2c2adbab06a49dc8587074169106c35d8ec8da18d29cc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "96bcbfd6a3f4ad3b535a43c544a6cbb5b19cacde672cb06fe8d234c09d3a2085",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "617f49731ec94e41d229f5686f587f00b979b9c5b2e881a0d0b4c24e579bd34d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9ed7b9dc2436e88370cb8cdcd9a6bd33c0bf6f5271e4805e1c44ee97ab7bd3a3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2fa0f3893ca8fff0ba2c2e30d0ba35712ec5dffa27ebe1b87b4a26cb4f7d0aa4",
+    "name": "Joker"
+  },
+  {
+    "hash": "5d84311b2645c40ee23d490f8b2672f6e8ed4667d96d2a651e9bb61c1985e50a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d47d299d9785eca59b879692e6dc54cb810610570df2701ecc3107e28df9423f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "34a9ed3109dc96d97db78d92c821222f40576119662f6205c06685322cd5a4f0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0120a502e1790ffa4c363e00b5d31eb1887c09a22181056c7630cfefea901e71",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1d2788e48a5f27ac18a57fe4cff158c5439a530ce9468d654248c90ff94e944a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2cabd1aa17478e3abf4b371584f39ae249b6adb5d2b8f5d29350c12b9760fdb4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c27403be262aec312ce680d4e89871f00d114bee6c7872374226dc315c9db74e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5d5c21fbab62ec156c8e3897caf31a0dfb1a2bf2e1198a9e9b8ecdea87089a19",
+    "name": "IRATA"
+  },
+  {
+    "hash": "d75a88a95c7b6b8921348d5f7189ede666afa326af7a48c49b17a4e7586ac324",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "118219364649af5463b56abe19b313b810440cf2969b0e7cac64105eb5303037",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "48073427089d9377d50fc3ba69da9ef467d34c27fa8674291129a880fa64b9dc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "173192ec576111adbc0c228f75244cf627513c95ca1709036e9850f0cdb7c90b",
+    "name": "GhostRAT"
+  },
+  {
+    "hash": "bb9c6a6c84f26f5d98332089f90a4bfa735cbcc984a3f49e2ca8124db9d1600f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b7ebb627e3531f074fb85553046dd93d522fd1b3c8d996ee91b71084cc79d051",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1bd7047740a40e48aff1df37b06ad2c1612e6c50aaaf395a16aed180cf4c296d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1f333d910158316c6211f7b24d118aadca778abb3964f3a4b7d3914e49278b7d",
+    "name": "BtmobRAT"
+  },
+  {
+    "hash": "f5c8298c37963b6db62a60c2ff7cbd51d24fe2560c8d0db1386c53e8fe92db93",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "57000b918da7ac8147d1b5cb3af4ce0e8646a7416e7add56f90049be28d3ef73",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dbe187ec53e3d8302bd92e56c20789bcf4bf633246ac62383abf228fb1c71a12",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ab4bc237f26eae67f6a2d4e0c5955890b0cca0c941a31c3696a6211eae72d039",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cdaf0bf256269eec249787299b5ebb7058f3944c86b14debfa41f9c263ad17da",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "de294c3e2d681e8acbe1f5e673e709a781dbe53bf213d9ac64b06648c6e63cc1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0b194dab7e4600fb9e04d3c9828025ae650ed463f49f58e24f44db94a8cc3108",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "38052e14d4d68bb0ded3547165c6173e4b42ff4e691c4d9b51cbd3dfd84602a6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c0b2074818d089cd18bc1b00b62d8999f889eb39b2f03f0923496c9fbc3ca929",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fa3de3e1240382744814a75f9f4d1f638a98d3afca41d646eb860f3020b675b1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a3da040aab40b054014f57bd68987c03b451344d5d00d8dc68dbc7af8af0e98e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "de9d9663fa7293fca6e75ffd75f69b2119269020dc0985b3d11b2c7f0af9af2e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6d84d8aeaa1c980a4bfefb0cfcd3efaeddcf4e98c28817054d292778e22664f2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "457ff62cb3e95fad075c1310859ef7d7c960ec35308c7e9b8b76dc3e1bc84c91",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "043ebed69763576c9e01c71afe80e1d60184ccd1c92e33d30da5e067f22d2bee",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "af56cbeba5bb0e5b10af555f7380214d89f8f1bfcca229f2e713c7eb4a371630",
+    "name": "NGate"
+  },
+  {
+    "hash": "0b5486f7855b0cb378067ca0c09555cf91e31e490248926dc3ee821c7193cc53",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "251f6bb6a4273c411d0c23599fc5cc226e6483209045361dd005cc2cd0f91f9b",
+    "name": "Mirai"
+  },
+  {
+    "hash": "4820b3beb705e44ffd80847e400161559159908dd286462db5f210079a0f4506",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e336fdc9fb561d17dc9b7864b4c7ac2af7995e86906118e4934f32b922140ce4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5fef2449ce26f0820e72a42ee45f578ce14cef908c52063cd595b000d4665a81",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2a6f2f273af0d9b0675c466f01bc6d81245df7105bdae8d25b9bbfabfa3f19c4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "bcb2e3ce358bc9dc01bd20215f2db4d830bb9b53ab5dd85b24b18bd79553aca6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d7eb3126bcd96dba6f4ea3b8c0b2946418eb9b984b88ca9edde0cae983974a76",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f316a9d6705077d4b0ef17ea2c9bc1a540d6b05b2bd1351e4bd7bfa200e81487",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c05dfd625baad1459e3bf5f7d08574d35ef63507ed5bbdd5f0077144acc84ff4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7e0fb6308d37e4cf00bccb31de0bb3ec7a589e75c787c6e0cfcfa4a4b2bc520d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "01b255c5670602b1597024878c0f32cc7cb845e1fb82804f4cf409a24adb8412",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8c1e08f588f708aea97ec4c0778387329aed46a3cf2943ef94236517ba018794",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "50977a226fc839b203f8329a65f8d3ae217bb415a2d94b619263535a0bf9685b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "62b42fd5f5bcc0c05cd59274e26ece4111baaeada121878e1f619261ef471af1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fe8a3da2d38a3f4ac3a4072e07a291afae913ab3e59fe77e1ce7afcc5ad01ecf",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "272fa949cf2356728372729a9299654f9f10aed31bb5c3705da17360249f5629",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f5126fee44d140a9abd44713e4c898526ef4426191b206f2c4243125bda9eb13",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f1bc12e3ba3d2e7f0eaf02c4858fb44d5e34b861718cdf0ddc929e4eef3e2222",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e9a7048bfe4becd55939f15887c595a368dbc85e1da6e0915d47431b0c471b05",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "11fb0ad7321dd92aa8752792fdc71aa3cb295fd86b27293978205bd6b3699894",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3e71a601fa3b477e9409dbfcb8cfffe93a2fef40db8167e9caf5e0504da2a7a3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cffb511aa1df5fd1f1018696d67fd796ecf8071c43b455c16091e249bcfad47e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "15079ae358fd633993329251d5b80c4c712fe90013eec49ba2fb6945d6066e02",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "745bcfeebdb96a601a4d51786d8b7ae61df4463d9379d51dd8553de859a43b06",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "30f10a84684c66706bf4039adbb3093afdf34a504f6df2712d899338f81f5372",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1ac2ccb3043f3c8e4519b4130b72048b971419d73b825ccba5ab51d9adf2d2db",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cf869324cbadaa2bc186f2d1d1bda3718329c1000e60e22a29a3a1f207c465ae",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "480616f69e7ca6d70edb6eb7639121b4548d5b9856c23e117be5344d39c8a7dd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ed780b1afe60dcd2c329aaceacccb099c3b799b6c6a8d0c835a7f67be92b746a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ab0ca703cede3064f3e441002cf8298c7fd2ad6d7040c1023568b58db0bf1a07",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2152b98a832ce3e442b486ceeaa8e41a8a99657168986757913e2d916c7b1c21",
+    "name": "CECbot"
+  },
+  {
+    "hash": "b9afd4c60ce2ce3f4cdd8b5ceca4662a9191ca7a986d1e2769e3f837bfbe8bc7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1a62d89f6c7f5c71fec174654f269f82fa6b0126d5e80cfd4be1e2292221cf51",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6cd4ad54a4973ef8084e5b0d098d49c659cd3f4cdc952377f481f63db1cc16fc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "093f0a27b92199fcb1fbbda0d94130593cbc5767ba92cfb02afd30768d2441a2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "df1a7b868293d9bfbad876349f87bc59520286ac7468c3ddfee421ff75572a26",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0dc6fa96d4ccd761d916d119d842fe191c9dd24bb0d97936f5fb168e898431f0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f6a2a23979851cabf9f815eb88e1e08d027efb2b2383366605e30531c68982cb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3c53b424e3360636b76e587e594a0fe50f379df4c5d451d619c3c8588242980a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b3b59d9ac71744f4f622ccd6652ff5a26ae1372d1f991a0207314f7159dbb73a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "24df810c2ad182b21c82c22cbfa4cb8f8330cb84f4cb29885fca0b5b97427c4c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a7c0f62e6fe1eeb264797ca8f0b5a532c0a69acbb2ac820f887a7a3edd356cad",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e95ccd4bad9fe2e7992f7b2e174c32154ac6c72a0730fb4a5d230d5c4e543649",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "56d696a1a8cf42948967660e756ae22248443ade931e93022e0befaa39acc7a4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "27bb0b17f8317881a86b3a2655eb72019364f3b24773de8e843bc9a6f46e8df8",
+    "name": "Mirai"
+  },
+  {
+    "hash": "8717de4c2f85d1b1969e297af6b70a5eaa32cca5fd430667acd67b5c9a4b1d80",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "17fb212a8aaae93b87a29d753ec96eb1659c8cb420e889f4e6f78b10f794c9fa",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "83a59d8d9229bd86740896325020bd5770d93af68ba783dd74b2803c6c4ccfd0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "441f3e1c64841a18414258df36326c4a048c32fe4543e42d0177d46e853afb6b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "aa0dd1d81b068a0c29dc245217127141ff2dc73dd444d91aaae0656186902f6f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9e7fefec277860ee17f5b8620c594a6da5e4df7427f847b74e64a6cb4b5fa181",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1a150613b154207f022da50e73bcd6e0256407e91381f06fcf939bb89c29df6b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "35b19577c09d231a2bbfc82263a9a01958af53febc6fcc4eaf8462a1ad4eef82",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7261b1f4f4b904405136fb4a1a0267ade1952e397b57a49b05efa6a92d32cd30",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cf6fab86b34eea3eabfdbe8a8072f712cedbacf9b1faa123eef2c92b1d280afa",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f179f0a98187678897112bdd507c7eaef56cf25a420707989e29dd88e428789e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "00ba0d5aea129f098b5a609633ac77cd642fddba8b64f6332e49e6d33294992e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6044b2da11979e55dbb73af4310e037a6a2c121458ebdd064fb7e3e2eee557ba",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4a30a14572a04fc46e7623176aff981cc1d4349e11ec092bee6d1b19340a6cd1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0780b268543e774f7b7c6d03892b8e675795b744d5d4f4487a018c51df7c9fb6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0a53ab4c4ba552e6c2bbfd879735c0c0a9b7c027243bdad81efc5ff942b05551",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dca1705c1e7f2857c9967f066787e1df34e493481583325628a4a5321aab0869",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "32076454e6bcae047a7c477696af37178475280b2c4f32cc3c3c59e58b37fb08",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "276a326f3efe26af53087202ed4d72e47de8c0aee910ce679ea498058c1f1bc1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7e9eedcab864fbbd80c89f5763d31d201f7a5d175e7ccd9ea9bea4be17671cbd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ce28498675c7c1c92e14850875dc36d5c96fd8a8ced11ccf9dc0eed08a523afc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c5061b4ffd1b5d876be219d3a13bc92c62aa0789b5154924add9d374591ab22d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0e0f6e98af559b306e418566132316b255e425e55b535c14bdb579edc563c640",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "85a9b1a98c80d9c6b3dbf5cecbde63a64d82d5c9089c2b9d9b674f1cb0d749b3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "139b70aee8e4aa8b0f7ed08410d831293a14fc029520a68afdd325091375f5aa",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "20e2c56d71fcaa1efa7a37e8e30211cd80fb7ff9394ba32df8d435e5c85eb963",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e705548bb935333cc8c3094f27dd570a9e2c2c101a65321f7a3dfb37c3f9a1c6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3103a55e5f39fe474143496e5ebdfb5a2b2be924ab4cc51517b59b930a927290",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a509a39b456f8b881d9b29d6e3cd6ac12d03db3d7da76315ffb894a5b138e684",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2654e2389e20457172d935b2919b0c8f6712399075362c4f1e9fc26321abfec4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5be608a563a02c94dbf3b1812b3aa0685a6f8228b5dc74c773cc3c912adef7ba",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "11a44b1a227a702bdef562c1d10251a42285b88d2156fe2b1888c175bf06dc2f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ad613fc80699e19ba1c887056153c3f86ba100b6c1cd362635b60e8078da5a16",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "895a9274620e8d9c48ddf330df8b9d7331322ea659c35d8808c381add741a89a",
+    "name": "Mirai"
+  },
+  {
+    "hash": "2ace553de3d8c370341faaff1c128effbda2777cbcd5d399b7bfb2fc98b8909c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "68ce835a70760369ea7b48da34ce3484738b4d20b90af63b471127adab97e57b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d8b187b4de961b07b9b0abc5a68bd4603a8a1d5bc85a5dad969582391f4c10e0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4764bcd6e6c4ac95d292c1594dada626ff1b7d5d7f2cdc7bb0e0552e499e4a41",
+    "name": "IRATA"
+  },
+  {
+    "hash": "394e9cc44f80f3defe9dfc4750938f42805f0329ba4d65a205ac9e110731d716",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "25667ae1985d40a41e1e02fa1e1eb0067b9f4013b0701db84fea48f4538adae5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "61af149986db26f8e4d084e994cf43bc2595ed7668393401cef7a15afa999b57",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b9fd307d5a43dec31b053d3061920cfe73935900482f95049bbe6fbdf022aeb9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3ca4bd601320b58c7e6c5ee5b348b30e638b881a43451149ff7d0d06c7c7417e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "01227a8b5dca01ecac7177051e6d2a3cf5e12ce7ca9cbb06040d8bcb9cfcc6a2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fc341a1770ea2e616a604f1c301dde223b19409da8f9584fe3fc94ecf59c86e0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8bad0bba338929b0d492809c221304722b2cc8c7da23c500c2e99a2d059cc36d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2072c29a227b8cd181ad8fe67a07f75c4de34fed5f824706316bcb6bd804bda7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b9c87afb1c2c1679be543959884f6b5b75e22004e8127e084c7c4339629ea870",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6af5634511b96d2f4e92255fab614aa1eb5f0fb8963375f2c0b7e82ebeac4982",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "39cf634622d15b5139c8646de73d0e69191cc89c4ff3fe6ebfbe71c672a2200f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9ecda8119716ad4a113788fc50589e068f078be02423b6b0859fc5f1f29d5cda",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f84154829462767e464f41dd63d1513547e728eced3af90a6561f1e7e1611723",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f885885e1abba77b387706cba13aa51ab632b4d525b8e78c16db0f4ad6396a4e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4d9724d7b0782295deec078bf0f6e8da05af94d758332afa7fc0a8a0543228e9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b02b8e6feac8c1474f6676b24528567fab2048dcb362037ee9f9c05b1b592a3c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c1202a1501f1f6cedec89fcd1904cee6fbfc6ca41ed12bb6dabdb047e37ee022",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8286e4796ea647c6dfa7fb09452f278cb2ec81638eafcef2cfb8108737d11120",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d0796f3779b94f66948aa6e3ecc6eb4b31460412f2467bfe05dfdf9299042816",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "03a49341e60a8fe546ffbe996102e6b594840ba332f56959c6929f858d38ab70",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8dfb0686ea46ce428422587f9c835d30a4a39da23c428bca0aba4d716613f1eb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "55a0620136e283d47d3cc32858af08bb23ba77a70c7541c75e1150825906402b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "43169ca3b2d8be9ebe9dd71a63c7009c0fea47076a059774865358a965cb8cd5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "53b7128250ca70ca2ebadbc4a9cdb2aa4a3d0b4a2ac9e6b7c0a302706d59d95d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "467227502142463f2a89e7b229f9812ee03a85b44b3ef2c02dc1ce58d45d6eb8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2d5c8851bbdb3cf421b9749ca95c1d4ade9e0d02cb25fd967890c3ebaeaec909",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b0a980b60f1b8f05ef60a5f6d06b9dd581b40759734f0f82a34bdea9c5a41957",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1d28002e36d7e26f394269f04377a2381255959c94d4f91c132b7d93872fdb6b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9d0f2f33327c470bfb073fda6e2d1c0b1658bf490eec005a9943a96faeb81773",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "66dc00d303cf379796529c5634401327ff739a71c3c18c8ad6f7c05b8e21bfd9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fbd8b50d4c36272586ce75a99b775d1322cabf6076d8b2f28e4fce718b7dca0c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7d19af16438b9afaf91740d6515162b6410ca73ff1255834b7f7d002114d6a68",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "184ed09b7a83640f182566d2cc4bc2d30c8a67f33715e4db1e61642e2c168d12",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "44f9d5c684fb6f34465cd7593709a37cadb57aaf41430b0d043fa593e4faacab",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0fa3360a6a00ec8d3c988f4f81be8e79674bb8cf58c9350237062eb60f54bf4a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f19df82abf0d66389467746f519557e81ca5b373a97e23da7e414204e4931242",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8e3aaccdcfec00f697fd658758bea1bf41ce5f09ecebea1788161c29a9f9f9bb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0ed2bdca1aba5f0aa9b460314668ee74511d57e54adecb06a5595aa227db6a30",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "76bc2cfa58c82672d1cbe9112bcec4e8e7935a53b1db21b0f5731cf96fadcde6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "13bd0b75039576c6b5f249e507cb5de04300c83b2971edd94686659848c504c7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a1416a250bf7219f95961f484421dda844b5013b5561c4a40591489dcfcdd384",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "63898fa3645e69a333f8ea158d0c4e7bb20a4265f0d4597f50ee2ffffc9df820",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ea61dd44be70142c8c307c36e8438b37e6147f55fdc27599b0b6e0592bfc7bde",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b75594885b4382ff7fdce4cfa890bb3c47b576bdf47a3ebe5f08352fc1df5790",
+    "name": "IRATA"
+  },
+  {
+    "hash": "778d80c1ef9f0fa2bc2165b5db6c22734896e88be493c3ed2381726e009fec14",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f602b76aeb430fd77e90580b6adcff6e6e042553a86cf7ec9bff91baa2082d44",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d442c8a34f8dd0426bcae81408f232844fb50902fcf2e8dbb1c4c96938d91a7e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7a134d98693d47f8c6824110bce75ab4e6727df6df4dc42b9922f93643728cb9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3283e3790bbd2d69359ccc3f57497f90a22078273083c3d32feff91a08687a5c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ffe57f0d2d663e09e06cc3fad7ca621bbe154b0b9e74171aa3559a04566472e4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3137876e14b1e16f462ddb72f0edfdc460460911294b5fd4ef5e5e152080052d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "bb23f0cc167c69eb971d2069f8e3c06751a3f9c9e66a34ea12ea30a46dc00d72",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9450373187894925be70cc62b7d91adefda11b369e39c524f8cb6fad7e6302d8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a3242742c9028388ecf7beecf81a749b772f83b83ab9a809d2229284642be229",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8a9f9f3f3e38327bebc5096ba195d1d93c61bc277734fb18c4ce2f281bd08f3e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f651876e9185c206d770229b0cb312b7ae620225e0e6768709b93d4258bbbced",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ee4169ae62236462925b7ef0934d2fd4e10d8d64f97ce4555d625aa390c73041",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8c5e495c1e26a4bb6aee1a881ace6e7f139e03509cf09f98d7c687710899d383",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2290af43f9cecfcfcb7dc0a11318c7fb0b94f43356bd20b9ef8516dea0b05e3a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "049adafe2b168d59f8bc48e1809392a525475778b5f9d3576a6fcfbacf47b899",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "20fbd73d688c4458e00668df492de296dc836a480237ad7aeece700aa0a63448",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9e9bbc587df1ca7d228791996f906303c720ad04ceb1692dbdae1f31b050f38a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6963d22462fb4525e0e3208190906f545b8e507753b2146ffc9f5f7183042fa0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e422e435a5abc7a2476dd7320954433f55e5f229abe0aaffa6b909d5bd3064c2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3408f14720eff6ff93e402f85cae60b17793eab8ccd501a17fa0eaa51a087f0d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "939a3db851e7f7648babfe390bb8d93338ba57870d66e1a6b846e5e1a3207440",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d7c4f4f6b3cb4255775b4a29a10ed7d51dc641bda7a375c7a05d4f5681fe2758",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3da5005749afcafd5d55d1ccdeca715e85e47c934df3c0843a567bc4fe4af1a9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2cbc3db540080e2a1c821b54f03f214bf44f02d98e1d56c4b84ccb5618226e34",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c17aff83c3fbddb86fe5a40d7a654af5591b16522fb15c222bbf3d57b0b16748",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "addbd8770b53a50e83c711143332c76e9160f920675e2de5591669d3b93f499b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3a03b35a4c614d651954f8298d5bb75abe33223e0791bdc1b9bdb2af69d3009b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "518f5438a21e9aa9a91f0dd589088e443fda111d8ada5ea67d1cf14d6645974c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5f94e59c132a7ed0e35b60146d973a728ab9f390c8291f9547cee26c56427738",
+    "name": "CraxsRAT"
+  },
+  {
+    "hash": "388d7fd938e51455ad9ba27eae9ce01fcbadff8ab88d5a7e9e742cb28402f1e8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cb0a4a758877e3f18a85fe307c6d4a7baf9924aab93bcbcb41f81eb13d9ac0f6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "85a44fd5134cf1d317a7637f1fb47dcf570a93e925c365b2e8f103a0fa459290",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fa51dad8bca716e23e9131fc031b8db5f072f255f56969fa1045fe760e2f1100",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "45d3513dc95750c55f733fc27f83d009d46631cc1d4494f5d842d42a3ffe9151",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "93ce021f8551830646d4a75a6be6f420fd4d68e65964057d7d91dfee34d3ab0f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "40d224726eacba5b74eb7c41cacd13ae996b8639148b94be34ce80ca679b2236",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "581d28d8f57fca6d65b91a7f44d08e57d43aab20a337aaa9011ff1c8835f71fb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4e52f85b5be6cdcfc8a3493c0d56e99494a36871e53ef90ea915015a9fcbbdff",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "87b4cae8ed4c474ece3b42a998fd0f7b86b74cebcd1fbcdc4aca155ce582e7ea",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "51f505968f17455c7ee7c1309064a2ec0870e0e120080d0bbbb19076a1c112c5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c5dc6d8f325c125fba0a9ceea0cac957642fbf0a38bd4da867a82f6f06962d45",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6e87157051e31528627d600f310e0b7252f85fcaf9607b34e5a4156b2d14cdec",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2117f4f448674fb5fafa5dd581777d35255253a4b82c9d0be2aac917efec8ae8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e3d0cbffe67561de432b5b0e912328ed7c32c5fcfb3a5002515e34b517d7296b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a97c8523696f6ef8f30cc6cf4b60a7a46fcb8716176741e09dfa81d5eacd8334",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "364983d2dbff85f4b9b2bac2beba40ad29ac85f2a16bdbc8fd65896ef03cddb2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dbfc18d920ae1c2acab8aeb4eda81da4f3acd39dd3d5c8faa0cb20dfd85593d3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "563bc028fac5f38f3849a3808bcba9cc41beeaf4b9ff771d383954beb1267e0b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d7ddce85033dd6a5bb68d2751d903fe7cbda741c64351b9d5632ad4661add63a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f73771a1b9887ebe85ce70b6dc459e0ce05ff6f71ba5833b5385a9e0a81af3df",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "44b5086d35b879afb9278392c230cdd0d16ac9b830cd44e75ece6ccf0fd4952c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "58cc948bd809292143e604c3e03735c9517f94b37dd35299ca5e81d7b902d620",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ec3ac26dc88851ddd209ca93eb156b721ebe4d4dce45188394fe65a8df95c457",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9c97d8ba3cab23750c3837b024bedde7e6bb7e27f5e6ff3bcd3817b9b9eb33d7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9904bb103fae65ab3dd712f6b9ff361d3f3cb3a4cc814b69f0af3e2f1a837ecd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c5544517f1be9d5a721a951d906b26f9ad11adf4a06c3660a75e89f07dabb8aa",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7e8693dfed67a88db885ac0ffd94b73351d1f910cafc6425e8f1b4ab0e24c2a8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "bca248d31bf87b605e8cca7587a9753d58a9ad9a8f7e6f7f882d03150d72869f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5494db78d03c9b3061c780520fc6713fa16cc8469c18ec9acb3d8eddff91964a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e0f530acc605475dc38c1bae9ecf9f7c94c80b8f24b695e3f8025dba1e8d5c22",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5af77b5f5d014162cd3bf43314ebb91f39658c5be335c1efff7c9564e298e719",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "95236ef71738807ce60ef7d042699decb7156931931682cf46e6adc991dc9ecb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e4a321eff05a64115f04306b581c8fced4626f71963c4fd2188c0e8e92c018c6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "44c68a4b47e80309bfd2ceb87ad3672cee1796da709a663b391c3678c29a0979",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ded9e25a730b77efc66a09eeb5ed2fe06370fd440e66e082fcdf7322615043d5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ff742233c4d1658056c3d74f6c7edeaa0bb2c9f5c028a7ce152cf5bd6c07365a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "de1d599dce6596fb6b5ed9aea4654e98e477877d6029e173a39a0dbd9db86f5c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8c5520ff9277608007c52c2fd67deba6cfa0432f209a73fa62a567da196f10a4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f06cdcecb1444269eebcc07b09387d9a3e2468a9b52579de9b809e8e25f112a3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c46688f553c2ec0dd426fcdd73895700a116dad0a93b3f54064f6475b9330b14",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "458ba9976df1df2588d491c1a1fe4f017a56a966919597977ad99187ff070852",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0c397afa38e182d706ca6b3f80924668510bd219b991bfe52cc0b0da845cf2f5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8af03cd6ef37b820bcfb85fc2cf605c451e2822bd07c22941f8677c198240176",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "049db028ac8f2fb4bf12d812df976b2078e753f14dda55f0275141df0c430f1d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ff831067a12cc079a7457a28a91d8d35e0a511f102bf2026e44679193505e271",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ebccc1b3bbfbd7880406cceea1b276392b0f823e7533d8fd1e3394a7d131ddfc",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ff6d4078a1ccd4248cd5a9f235944af6f4e388c418f54aeffefea5f5d6d0ee82",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "42717ed47c5fcf81e6b905e4a4e0f34c472f1a134dbceade406e3e3bf8d21800",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ed3c5f9175f6169296de0d7c1669dfea12b2b7143c8720c0649b3180dfd5c0bd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b2bfa29467c1979c044259d4ffe31fc32aa6ef33939779bd3b1ce6bedb44dea9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "65e64e65678f849871257dca43fccf8941ee0ee35fe6b72e86a34fe84e752e68",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7e631e9f7791f4648f776419c020ce6c33071c3e195669dd473f1423f098d39d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a44b8169cd3bfdeeffaaf0bbd1895b4eee0573c9fc4dd10d37e90f28ff4ed38a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ad1d8a9a421583964a04935a6a1d66f8a7c3dc6b81dcb844a3cf5be3f1a7a0dd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "306fda439baacbad62df66c6f52c431ea2292eff002220c11be43ed5c0b961f4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5f09a31e28b755aab00fbf3669a7369d1205ac5dea85f0b328cb7cd76472e456",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "39c54636a6f3bf9d4c64607750a59d940db4f4106c8e0b6af05c9fac8e445761",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3b64eeacacb94d70d498988fe8c6dcc25b133bcaea37fb69dc6f0cc26bde9921",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9185cda615670b1928acc5419dd309c27eeb42f706c549b058dd48c6c877b0f5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "dfa02773f97f552deb7ff04f5c598a81be4d236fe33adca2a47551485a3aeb2a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ca2e505a14391d0455ea1e007531a7c9c4c56dada2e1e185257a0be843e1745b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "80de49a3bd719d62f3b2f24d584a03e3fff3e6ac46ad8bea3c04c8a09071ed3a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2fbde057c22b6cb517116d6c797c3474de2f4d3bda09037a9f043a6ad843982f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b56b156ca98d8bd582b2d9ed36845a5b86c7eb5d845f15948c60dcc22a715497",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2c33a9805daeab5d18b819bd1d45bdcafd91d1e6a292e1281c351e712922dc0d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5a0cd09adb09a79071a85edc931e02c8d565d6cb7cb58e5b0bffd866e6a2ffb4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a77159ac51e32c65c3f1a2b12e0adc42a33263758d9d422fc5226b3b34c52956",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0289bba171be701869f821fb0d1c9c9a69299a855555cb1f6281e404b997ade3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2e11badbd558a37c88ee22a7315c8220b90213fb712ea1ec1f39b14e3ae8475c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6a3d670364b5cea68b0c26ba8182a31c475b3e1a7c755678e4af72639cf7461e",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4cf416efc71277c8a5e16e91aff941917d6e98ffd0ba88c06466325743ddfb80",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8066f1b5f9c8cb2bd068f62de208662487fcdc59e4a9eca81dff3b24b9e8cc3f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4b9a92bc2ba87c302fa3fc5090d588d9c2dc86a35b3caf61bba460a81b65dc9a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1c074b4be09c1804539b2dd4f794a886aa923625b45748834e1120e713844485",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "bf06df823a0a0b1b4618ee736f5f0bd508b315ea3c6b96a16d2a0d0e58906346",
+    "name": "SpyNote"
+  },
+  {
+    "hash": "9df10232d4f88ee647da3f00cc01d6524c530c897f3fbe764133f9de1f41910f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "171e5b1e8f74f71e76e38cac85180865f4042b7aaab2f863901e40bc0da11d11",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "935277c9a313396d8a8f3306d986480e882326a531c91c395fbac321cb11e730",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7f587f6845b47487a7e8679f9ff5286b586ef57198e7e8cb7522be20e8506a18",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e93ff09ee9325d4b34f9cff330f1455ea013915c29d7323a7bac1bdffdb2e80d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "48a3b6c524705875ab2e74b1d5f6072f48fe7796ece88cb7f642f8f662c41242",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c7f225a9f54d7b83865a2885872c082722ecff638a1b2779e56013c31c46ffac",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "eb26510da9f42cb85773db3df37b1e06dafec68cf5d7810ec1228ec75742c1c2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "87cd69f66b23d77c632e1131fb39ad49081c9cc7d1e25ef147a193bb51b85611",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b11f1a152ae645946926bd251e6153ca1c7e15dbb87e379b6238081b6c92143f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "0e4a33c1ce7dfc51e79054c9dc647243a3343d15f6b0f8ab902cca510b85e1bb",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "1657544b1c70f59fdb749b084dfd312fda19e1788a5b80e8be28f2017f7f53ab",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "88740276252861174ee4e0d98a6a7567a8b3cd8204dec646e4aee41cb8a17f66",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f702f13a69bc4af27555d3d980f8436bfa2d462a766a57e5c5ee238216bace66",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e4972dee1f952e1464828b5a8380e3250d58c42bd69d68bd3d92948b01960635",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "7060f7df266dffbfd5a63a9fcdaf14af020d90ba267c3a45ec44ea972e6936a5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "f952937ef13d1072f610507a69cac631a7fd4f04884bc6cba20c9830ef304b3a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "95b75076c52d87f8ba33929d22ce739a6e9cd65903d31aa3fb563aa7138da0af",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b75757e3f7f4b7b7e362ca42756869a310f0f32da06790466e68518f6622efb8",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "046cd600aa29823f76f89b530b564d99c7277e4b21aa15245b33057e8c118be2",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4abd5f4e1c9c80470bd5bb2dc132633d70d831d58d531cdde13094f563c5895f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6fb3145e1792169d75ac79fb57ca055274b9e1dd9400b9e8fb26f72b70e72202",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "8d7aeacbd40df860b099e502a538f59e83368fba1b5eecedd111566e0f39c6f0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "806035bf162b95b28511094a7bef8e7194a26b30232b37b00ca721560e1a6c95",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5dad07b06415deca06f91629545af6cf5ef7852c315f44732d97541c0d07a0b5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d3a3a7e4c9dbd83d269bc0f998b8c4975afab97bd4681c6fbf12d0a4e65336ac",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6f1fb8d7517ac977118ddfd4ec96f79d67cc57b63f03f7c22e8e8d79e1408e5d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "db0540c5310619b9a8751d532da20ed5ed61a930f966b729f764756bd1a4fca4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3a5b77deef28935b06d6ebd4c82643b921a139f66244ef260a1abfc6b215327a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "cb87eacbbf45be7fe7fb89d4370a5089626f7037016363e29a5ac9dfa35e38e5",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "80ebc347f3256dd2c0b505f25c9620f334bf9fd716f17f1b45a020671d3a69f7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "ddccd1ffa2958db8f6da622ec9943ee68252fd9d31a6a7ab88cbb15681194d38",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "09848681e2ccf267eea6ada5f94932c1445d14c8d5cf9667728baa4e0e3306a9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2e45277acfde3fb704179476b08f428f66a03670bbdbf2e8ec79c0b0333c009b",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d51f2bd7ffb49c224d8eaec2c8ca1c8ab9fce2fd5fdceea01eb54296c2f47b4d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b2270c29b3d0a49a716730d6ef108cffec0b1a4b159dd02e93333fb85e492b99",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "abdfc3dd109a557b94f8ff5d7055cbee32439a8c9b36e7809b6427ad125ac0c7",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9210aa62276b4d2fb3ec41d5fb296c8555f5f9d42c16166cae76400e156fc451",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d5590d963ee65f4708971bf75a07d31a11b2a8b92a546dd70d9974d71fa9fd06",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "639dd1de39bccb7984585c453b482145a6ad7353007a8ea3cdbf01a65076e151",
+    "name": "Android.Malware.Generic"
+  }
+]
