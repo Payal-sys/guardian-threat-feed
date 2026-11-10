@@ -1,7 +1,23 @@
 [
   {
-    "hash": "2de9ebde28fdf9b9e2fbe14f19e9a719e452ab9f124e5556ee56e5879caf44bd",
+    "hash": "507a7e54ef1c1774a29f6e9e5379754bf2491b133054a78d1984e2597b93ad5a",
     "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "6fc1cb3e748533b6d36ad5fe5add365b490f4bbc0355ea2282f46a343451ba55",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4816ba51b0480fe7a19b7785dc10a65ca880ff626840184664ba3db121afbbb1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "73c0f45d7d10d3184f0fe17dfc1c855e264bd995c771d90aea5fbeb8dddd07bd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2de9ebde28fdf9b9e2fbe14f19e9a719e452ab9f124e5556ee56e5879caf44bd",
+    "name": "SilentNet"
   },
   {
     "hash": "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459",
@@ -781,18 +797,6 @@
   },
   {
     "hash": "fc341a1770ea2e616a604f1c301dde223b19409da8f9584fe3fc94ecf59c86e0",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "8bad0bba338929b0d492809c221304722b2cc8c7da23c500c2e99a2d059cc36d",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "2072c29a227b8cd181ad8fe67a07f75c4de34fed5f824706316bcb6bd804bda7",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "b9c87afb1c2c1679be543959884f6b5b75e22004e8127e084c7c4339629ea870",
     "name": "Android.Malware.Generic"
   },
   {
