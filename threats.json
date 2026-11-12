@@ -1,5 +1,29 @@
 [
   {
+    "hash": "3637e3b4402c935185c62258fa8e3718184470f92467d3cc9fc119fec2752606",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c9dd8ec2974de83babbe60af0a364067f62fa761e319d4fe42abd7b5da66be9d",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e8778e45d1dee2b6b76a7b42a8c2593c8e776b6738ac0e2d5ee0d7f9f75d5922",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "b17d440501982c3353790c33333b77f662e225a9c59a39295e4b9a8bbb8b692f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e951f290448c76111037becd4944872350a5de5d0e2de05820a2015b67d4f818",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "4947cee4c7358c150fbdc6cc9412374bb8d1698e431cc84285161657891d0758",
+    "name": "Android.Malware.Generic"
+  },
+  {
     "hash": "8ca42478ab70114fafe5cbc33b5526ffae6ee2a9e05494933c6fbca9539d4d70",
     "name": "Mirai"
   },
@@ -774,30 +798,6 @@
   {
     "hash": "895a9274620e8d9c48ddf330df8b9d7331322ea659c35d8808c381add741a89a",
     "name": "Mirai"
-  },
-  {
-    "hash": "2ace553de3d8c370341faaff1c128effbda2777cbcd5d399b7bfb2fc98b8909c",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "68ce835a70760369ea7b48da34ce3484738b4d20b90af63b471127adab97e57b",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "d8b187b4de961b07b9b0abc5a68bd4603a8a1d5bc85a5dad969582391f4c10e0",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "4764bcd6e6c4ac95d292c1594dada626ff1b7d5d7f2cdc7bb0e0552e499e4a41",
-    "name": "IRATA"
-  },
-  {
-    "hash": "394e9cc44f80f3defe9dfc4750938f42805f0329ba4d65a205ac9e110731d716",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "25667ae1985d40a41e1e02fa1e1eb0067b9f4013b0701db84fea48f4538adae5",
-    "name": "Android.Malware.Generic"
   },
   {
     "hash": "6af5634511b96d2f4e92255fab614aa1eb5f0fb8963375f2c0b7e82ebeac4982",
