@@ -1,11 +1,195 @@
 [
   {
+    "hash": "04a76a4ae7779ec1147d547b2f4aa522bf9961b5651e795f58ebde6506e84b79",
+    "name": "RatHat"
+  },
+  {
+    "hash": "4c07a7d3e428e208a79e9796bedc3a867803b9d9d08c0d142f2a38d06bf867b4",
+    "name": "RatHat"
+  },
+  {
+    "hash": "e2d751d3167ac94b0b34d5a8e8d061e8785973981cab44e0b64df458d0320b9c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "18f4cc720254371ff8096ef0d32939a362148359421cd2c1ba8bd0414c532140",
+    "name": "SpyNote"
+  },
+  {
+    "hash": "6283bc7da853966758bd120f9d6a2b094dc3f5ab60474e072973e833151824bd",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "414ade54a5e981421952c1adc2eb331d13103da2e68e888280486285d666c0a9",
+    "name": "RatHat"
+  },
+  {
+    "hash": "136b23f4062493586621ecac87d09492fa31422e62f7e1de41445a7e7fd8b8e2",
+    "name": "RatHat"
+  },
+  {
+    "hash": "9fa0f0d5e8a1faa5ff6025bca525d47baa20e2057e14063499a7a232ea234295",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e69f2a5c9993caa6e39052e9c392f751188c6365ca807f6316c57a3281fc189f",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "1dde30cd8bbcffe66c827624b510969ff2ed75d9e6dee1c3d8d9b79e70714ac3",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "0e12d3eb4ab15bdcb712107bce25910a93c3457d13f0e4d8561a21ff5a76975a",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "9bfeda701c99693a464373789e268d5fa947306e9d3b225b740a79871e2fe053",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "533a0cd10f6fae39753e03f58f031dbce5494e5f89866313927ba85f4538dc57",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "5c970e32c4404ad88d3c8ee06a6180be549d0bfc36f3235b0a3cc69d46ba9c4c",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "ac2d147f681e56fb8da9eda3d89746c00390a7db5ff815669f0123b30e5971b1",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "8acf301c4f9d1b4fb745b00a6fc1fc9b56b907b85835386d6c2e3af4e522820f",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "65576f7eda911e8a3e3b5f704d54d60eb2b3f2223a1ddfa5c0480fe94898cc45",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "e3163133b44cf7eb32a3ae47e1faeb7f166e41aa1d13aa64c545f6699059d9c6",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "b2d3d6b3c2886eab56645714a050f1f524dc52635609930bc41a4058690f0a35",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "11d23aa5141348e20633b60eeae64d25fb8475a7bda5a8a97d8297e5e7fd01a2",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "b92f494a37e323b027aab0db3415aa2824563eb97f7a26edbb0301b947284969",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "86fa90f1dc93dda61d01191e7a61f2b0e139dfab02205d41c5d8031a5ac08f3d",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "cc785076b386f10efa064cc799a18da40f2d3b03aa142810d6c503f16e0ea227",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "8bdd1007b2b37b0134c56061e51cd0544f5b8a9b1841f0a4c4a8d4e23796dcad",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "9e6488bb55c134ce0cda58c2cd8a5ff9f50814065f0d8aad8ded936400d1b605",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "fe2228bd2bdc701437ce7fefc97373b257a3cf10e8c1c3a32e4ae4444a49acf7",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "90f941b1f5b60a6046952a87d1695df8cf2d701ec5a978409019e482a57918b4",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "00172f8d5f2f7abe25e1897a6d860de7d7f84ae25d1e784ab95a7eb1fc49b7ce",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "ae0fdd0b7665d31c7694bf80e96e509ec63990fc39f9563886522f0675b64511",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "fb1dbf1205d81871468c28e1b42d003018865e6ef6c69a07c41c940d7cd28236",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "46d3946bf5874099f12710fa85e396312c4cf00fd2525da61f67fb6aa0f2c2f0",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "d8349ba2112220ab091c9c58a39f2c309299c6d2b399611382f97b7a1e9b1ea2",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "ca2d7e190e50437ac557918731e8f6827639fa04bdc0115a7f7b1f24de3109ca",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "caeb10f4c90701a6e2d7b80c5ab07ae2a4b2b66c4b387077d2a01ed75e9c1e8e",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "af990d7d909f1753d482fce06bfee11b5dcb0d3fa45e19e6894b633e07901f8e",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "1ca92b8102f1a05b8967bc2d7473b3e2d911d6dda4c6632cce8a98db61db4968",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "70b7d0187108cf792e8ba23f4d6834f2e42bfe85e7539f90857bb1ea30f2d3a4",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "021a2dce703b90a6ce8295c1f96ec7a652d1d7e8a32b4e1cb1373382cea92080",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "b4a0d94be3476fd3eafa8027e8398991277576c93383515d25671d63caaf28b0",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "030287a0a3dd6ad708440429690f17b2b1dfd51e5bd640ae78283dae3f661485",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "c71cc7338d764ff1b0f63affdaefb3828c8be37f7ccacabf0707f7cb054170a9",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "6f815448efb7137685c2b0bc4e733c31f1463a849afe9f77bb0a1b84396ace1c",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "d3d82b1690e4b6bcae4db469ff1266a55a4c0c92da181fce4b132da529f2b3b7",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "60577d37734f757a825fc38716348efc09c72d2eff6aa6e1d6160f4f4b34dec4",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "2cdc63c65e5097c7d913218f9025afd875256013f0233e739aac320a5f7919d5",
+    "name": "FantasyHub"
+  },
+  {
+    "hash": "ab70e28b921e54d20a7a60e24a51fb47d256caa60e671d0721f010e6050da854",
+    "name": "FantasyHub"
+  },
+  {
     "hash": "667e5a159d71666f08bea95d89abb39be8c07d61f48fe2bc09a7d3f39cdc3a76",
     "name": "Android.Malware.Generic"
   },
   {
     "hash": "45ca3ab436c5eb0a572c3651760b15ea922dead9ebfef353aa0474798dda874e",
-    "name": "Android.Malware.Generic"
+    "name": "SMSSpy"
   },
   {
     "hash": "f402496bd816b3226107533adc442837770fe831125344213baf5eb2cbac8c98",
@@ -616,187 +800,7 @@
     "name": "Android.Malware.Generic"
   },
   {
-    "hash": "1bd7047740a40e48aff1df37b06ad2c1612e6c50aaaf395a16aed180cf4c296d",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "1f333d910158316c6211f7b24d118aadca778abb3964f3a4b7d3914e49278b7d",
-    "name": "BtmobRAT"
-  },
-  {
-    "hash": "f5c8298c37963b6db62a60c2ff7cbd51d24fe2560c8d0db1386c53e8fe92db93",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "57000b918da7ac8147d1b5cb3af4ce0e8646a7416e7add56f90049be28d3ef73",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "dbe187ec53e3d8302bd92e56c20789bcf4bf633246ac62383abf228fb1c71a12",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "ab4bc237f26eae67f6a2d4e0c5955890b0cca0c941a31c3696a6211eae72d039",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "cdaf0bf256269eec249787299b5ebb7058f3944c86b14debfa41f9c263ad17da",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "de294c3e2d681e8acbe1f5e673e709a781dbe53bf213d9ac64b06648c6e63cc1",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "0b194dab7e4600fb9e04d3c9828025ae650ed463f49f58e24f44db94a8cc3108",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "38052e14d4d68bb0ded3547165c6173e4b42ff4e691c4d9b51cbd3dfd84602a6",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "c0b2074818d089cd18bc1b00b62d8999f889eb39b2f03f0923496c9fbc3ca929",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "fa3de3e1240382744814a75f9f4d1f638a98d3afca41d646eb860f3020b675b1",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "a3da040aab40b054014f57bd68987c03b451344d5d00d8dc68dbc7af8af0e98e",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "de9d9663fa7293fca6e75ffd75f69b2119269020dc0985b3d11b2c7f0af9af2e",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "6d84d8aeaa1c980a4bfefb0cfcd3efaeddcf4e98c28817054d292778e22664f2",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "457ff62cb3e95fad075c1310859ef7d7c960ec35308c7e9b8b76dc3e1bc84c91",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "043ebed69763576c9e01c71afe80e1d60184ccd1c92e33d30da5e067f22d2bee",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "af56cbeba5bb0e5b10af555f7380214d89f8f1bfcca229f2e713c7eb4a371630",
-    "name": "NGate"
-  },
-  {
-    "hash": "0b5486f7855b0cb378067ca0c09555cf91e31e490248926dc3ee821c7193cc53",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "251f6bb6a4273c411d0c23599fc5cc226e6483209045361dd005cc2cd0f91f9b",
-    "name": "Mirai"
-  },
-  {
-    "hash": "4820b3beb705e44ffd80847e400161559159908dd286462db5f210079a0f4506",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "e336fdc9fb561d17dc9b7864b4c7ac2af7995e86906118e4934f32b922140ce4",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "5fef2449ce26f0820e72a42ee45f578ce14cef908c52063cd595b000d4665a81",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "2a6f2f273af0d9b0675c466f01bc6d81245df7105bdae8d25b9bbfabfa3f19c4",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "bcb2e3ce358bc9dc01bd20215f2db4d830bb9b53ab5dd85b24b18bd79553aca6",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "d7eb3126bcd96dba6f4ea3b8c0b2946418eb9b984b88ca9edde0cae983974a76",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "f316a9d6705077d4b0ef17ea2c9bc1a540d6b05b2bd1351e4bd7bfa200e81487",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "c05dfd625baad1459e3bf5f7d08574d35ef63507ed5bbdd5f0077144acc84ff4",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "7e0fb6308d37e4cf00bccb31de0bb3ec7a589e75c787c6e0cfcfa4a4b2bc520d",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "01b255c5670602b1597024878c0f32cc7cb845e1fb82804f4cf409a24adb8412",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "8c1e08f588f708aea97ec4c0778387329aed46a3cf2943ef94236517ba018794",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "50977a226fc839b203f8329a65f8d3ae217bb415a2d94b619263535a0bf9685b",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "62b42fd5f5bcc0c05cd59274e26ece4111baaeada121878e1f619261ef471af1",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "fe8a3da2d38a3f4ac3a4072e07a291afae913ab3e59fe77e1ce7afcc5ad01ecf",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "272fa949cf2356728372729a9299654f9f10aed31bb5c3705da17360249f5629",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "f5126fee44d140a9abd44713e4c898526ef4426191b206f2c4243125bda9eb13",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "f1bc12e3ba3d2e7f0eaf02c4858fb44d5e34b861718cdf0ddc929e4eef3e2222",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "e9a7048bfe4becd55939f15887c595a368dbc85e1da6e0915d47431b0c471b05",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "11fb0ad7321dd92aa8752792fdc71aa3cb295fd86b27293978205bd6b3699894",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "3e71a601fa3b477e9409dbfcb8cfffe93a2fef40db8167e9caf5e0504da2a7a3",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "cffb511aa1df5fd1f1018696d67fd796ecf8071c43b455c16091e249bcfad47e",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "15079ae358fd633993329251d5b80c4c712fe90013eec49ba2fb6945d6066e02",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "745bcfeebdb96a601a4d51786d8b7ae61df4463d9379d51dd8553de859a43b06",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "30f10a84684c66706bf4039adbb3093afdf34a504f6df2712d899338f81f5372",
-    "name": "Android.Malware.Generic"
-  },
-  {
     "hash": "1ac2ccb3043f3c8e4519b4130b72048b971419d73b825ccba5ab51d9adf2d2db",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "cf869324cbadaa2bc186f2d1d1bda3718329c1000e60e22a29a3a1f207c465ae",
     "name": "Android.Malware.Generic"
   },
   {
@@ -1538,6 +1542,10 @@
   {
     "hash": "80ebc347f3256dd2c0b505f25c9620f334bf9fd716f17f1b45a020671d3a69f7",
     "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e4a91ea474b3e1f751bd4467feca7d28b20e08819f9f05c4b95151397584b073",
+    "name": "Gafgyt"
   },
   {
     "hash": "a07605f271a730f2a1a736b1e471b9a6e8efbdef3f119f50efa5d319d83edd95",
