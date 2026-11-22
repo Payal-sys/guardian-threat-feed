@@ -1,5 +1,17 @@
 [
   {
+    "hash": "9e57476abdac74d094d55d9868308f2ab88090be12e0f0460ec129d53ccf244a",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "596f176957a2017301ce0de51c66bf096077a6dc58a41d428164ebcb4bd11de0",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c90bb5646476036fe5413827f2b495ccae6be25a62abb5cc9449dd0cd9bb7b44",
+    "name": "Android.Malware.Generic"
+  },
+  {
     "hash": "96cf6822cc7f421cd10cd9ca463b1f04b54929e6b1949743a56531b13d6479ee",
     "name": "Android.Malware.Generic"
   },
