@@ -1,5 +1,69 @@
 [
   {
+    "hash": "b2b386edce5af8084484858ac2310f214bf01e363714133ed0f9c322f2c727a1",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2f2c95559556f96e3715438982a90a5f1f046a225903c2db64e2203877116de3",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "28f92b182734e5a60d907bd9d1672855964d15eaaba8b5cd185fa64c10c4e2f9",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "3c601d9c55c05501223a62869251b8f545956fd436e3625a6515196a4770db7f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "c4d26c0e87e3ac1481aa3003a4308139ec5d0b9567fb99fab61e2f2c5d58cc5c",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "9fd5973d8c7d65f6bc65297138ce08905f4c2613319df48ccfca7c7c6d106a40",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "579d07eb81f22e665abd9ae87f6b8738dbeb28d2feb771d4f443b57e8f600549",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "2c1fd37bfe7cf8241a42a8ecadc25c2068d93ddfe46c1f6a0ea1411bac4710f4",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "e795f898552ca40c06ecf31330918d803793003da0aa6d69260a4536db7b5519",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "a0113e5c2670c118067568f3cf24871f747efb98f08771baca8652b51b133a49",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "64fd2785f7e631f5f68f5ed51da0724224feb49f985b7f20678f192bed7068be",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "177a52c92502c79bab7ea11263962c00c189744f1aa2feb6346b4f240e67fa48",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "5b029abe4ad2cd6dfa18064899b50190e00ce0f50bac57cbd849502ab3108f30",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "de90e07d41de8c2f6fd375ce0cfe6c07ec5381f1e51984f2745af64d937bd6a6",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "33feb99dfca28f97aed5ef1cbcb1c9ebfe215fcb8c54c56cd79a7efcfac1e77f",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d55c5dd2286d669b3efb690ca9adcd5488e50b114c472589eaf1fccdfab17e71",
+    "name": "Android.Malware.Generic"
+  },
+  {
     "hash": "9e57476abdac74d094d55d9868308f2ab88090be12e0f0460ec129d53ccf244a",
     "name": "Android.Malware.Generic"
   },
@@ -734,58 +798,6 @@
   {
     "hash": "f6bf91fd210cf04592949131b3ed1a4a10986c9bdeebb4869f511b42c54c5328",
     "name": "RatHat"
-  },
-  {
-    "hash": "ceb84941c5b9298b1166fc4f023f0ff3050ccac3e8355cd65fcc96c644297d6e",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "ae5483625f278378e9d8930562c3be0dc41c9132fbcaad3894c78b76eb986141",
-    "name": "KATARU"
-  },
-  {
-    "hash": "0a592e8cbc7f6ece7de140a8f49c359fbf152f3d7bab474eb0f52f521f3e56c3",
-    "name": "KATARU"
-  },
-  {
-    "hash": "cf178e04cf18b2ba30adf81d8bcddc80aedf2c40d9a503ee0c70594625f40445",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "ab4bccba4bb4b44c706520251e9705e1037f5ab5d0d535b621507d5aeb6b04b3",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "6e46dda4acf4e5868237ddca95958cb6154a7d7482eb73e4d4d73443d227baee",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "576bda1c28c6c5c1dab0f73666966dff2a91a6853c5503347d96362496ea14e2",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "0729394b7a5b5b2e45de232e3adde6d9a8698ba1fe4fc944966fbc8c082c675d",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "05e70b283808aca9c32cd393c0979f53a3ad2a980b81a467e3cac0e9288c3334",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "0ef38494de4a2622f12ae6899c85c25a81db6c5b1f0759d8f852050ac6fffaa9",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "17eb2992e0a5285df52392da221b2e740d478068480e861ad18994e64491ef38",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "58f639084f153ff5241b8ee7de3aba11dc5db2cebbb755f8c17c1091b030f594",
-    "name": "SilentNet"
-  },
-  {
-    "hash": "d845e7778c3a124df98f7c4533d8acbbe6e08c1b070c0925612dec4b7b61028c",
-    "name": "Android.Malware.Generic"
   },
   {
     "hash": "aeb59c9bee55cd1bd0fa140bf85bb423d48c964b782a32f35a83dd7b521e8c7f",
