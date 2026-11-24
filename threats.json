@@ -1,5 +1,21 @@
 [
   {
+    "hash": "1beac4366f0b83db749049bb3c6c67232ee91dfe23232f306f501db513a76601",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "63a37edac6d0c48ca1046b0d9779b18f46d08356ed15447743570e5b5f569499",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "d8dbe1a8bf90608dfa75b800f568a4762d1388dcfc30df91effe23a768258676",
+    "name": "Android.Malware.Generic"
+  },
+  {
+    "hash": "fc91ae94dc873fb06ec02e6d5081ad05fad9ecad091c32855cfee43e06bc2530",
+    "name": "Android.Malware.Generic"
+  },
+  {
     "hash": "b2b386edce5af8084484858ac2310f214bf01e363714133ed0f9c322f2c727a1",
     "name": "Android.Malware.Generic"
   },
@@ -782,22 +798,6 @@
   {
     "hash": "b17d030bee752859158181d586644569e40dfe13b0fd470f124829b5fbeddc26",
     "name": "NGate"
-  },
-  {
-    "hash": "a9859c49d20baf131d1e9253acb0118fac412acaa97938d87c7c8daa7554cd54",
-    "name": "CECbot"
-  },
-  {
-    "hash": "089688db8500d0776501de520205209535bf0e5104d0a728f484dde75c1ed9c2",
-    "name": "Mirai"
-  },
-  {
-    "hash": "e9c2ae116f11ed9ae4c1a86aa1ceb37fce9814630ffa696af692f43bb9ac384f",
-    "name": "Android.Malware.Generic"
-  },
-  {
-    "hash": "f6bf91fd210cf04592949131b3ed1a4a10986c9bdeebb4869f511b42c54c5328",
-    "name": "RatHat"
   },
   {
     "hash": "aeb59c9bee55cd1bd0fa140bf85bb423d48c964b782a32f35a83dd7b521e8c7f",
